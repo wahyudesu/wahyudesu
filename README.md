@@ -5,5 +5,3 @@
 I’m Wahyu Ikbal, a Data enthusiast from Indonesia, I am passionate about bringing ideas to life. I mainly test, code, launch and ship.
 During the day I’m a Senior Android Engineer working at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia.
 I do also contribute to open source whenever time allows it.
-
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Source: Toward data science" width="500"/>
