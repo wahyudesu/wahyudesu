@@ -1,4 +1,4 @@
-<h1 align="center">Salam kebal aku Wahyu 👋🏼👨🏻‍💻</h1>
+<h1 align="center">Salam kenal aku Wahyu 👋🏼👨🏻‍💻</h1>
 
 I’m Wahyu Ikbal, a Data enthusiast from Indonesia, I am passionate about bringing ideas to life. I mainly test, code, launch and ship.
 During the day I’m a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia.
