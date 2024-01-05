@@ -6,5 +6,24 @@ I do also contribute to open source whenever time allows it.
 
 ---
 
-<p> <a href="https://www.linkedin.com/in/wahyuikbalmaulana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/wahyuikbal_m/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@wahyuikbal777"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.youtube.com/channel/UCu0ogXOEQjSfMFgqD1v1hfg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25 <a href="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><img src="" height=25 ></a> </p>
-
+<p align="center">
+ <a href="https://medium.com/@wahyuikbal" target="blank">
+  <img src="https://img.shields.io/badge/Medium-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/wahyuikbalmaulana/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://twitter.com/_alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/wahyuikbal_m" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
