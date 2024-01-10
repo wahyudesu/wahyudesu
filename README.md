@@ -1,6 +1,7 @@
 <h1 align="center">Salam kenal, aku Wahyu 👋🏼👨🏻‍💻</h1>
 
 ![Data enthusiast](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center">I'm Wahyu Ikbal, a Data enthusiast from Indonesia. I am passionate about bringing ideas to life. I mainly test, code, launch, and ship. During the day, I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I also contribute to open source whenever time allows it.</p>
