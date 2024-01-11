@@ -21,8 +21,8 @@
   <a href="https://www.kaggle.com/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Wahyu" /></a>
 </p>
 <br />
-<table><tr><td valign="top" width="100%">
 
+<table><tr><td valign="top" width="50%">
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
