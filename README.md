@@ -21,6 +21,18 @@
   <a href="https://www.kaggle.com/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Wahyu" /></a>
 </p>
 <br />
+<table><tr><td valign="top" width="100%">
+
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Yang kudapat dari SKS Time series forecasting](https://medium.com/@wahyuikbal/yang-kudapat-dari-sks-time-series-forecasting-ec793eabb764)
+- [Understanding Decomposition in Machine learning](https://medium.com/himit-pens/understanding-decomposition-in-machine-learning-f357a55a91e2)
+- [Mengurai Metrics: Apa Itu Presisi, Recall, dan Bagaimana Menginterpretasikannya.](https://medium.com/himit-pens/mengurai-metrics-apa-itu-presisi-recall-dan-bagaimana-menginterpretasikannya-a15e7f90411e)
+- [6 Websites to Submit Your Infographic and Get Noticed
+](https://medium.com/@wahyuikbal/6-websites-to-submit-your-infographic-and-get-noticed-33c1f8f6d921)
+<!-- BLOG-POST-LIST:END -->
+More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
+
 <table><tr><td valign="top" width="50%">
 
 ### 📕 Latest Blog posts
