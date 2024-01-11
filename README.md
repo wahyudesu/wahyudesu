@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">I'm Wahyu Ikbal, a Data enthusiast from Indonesia. I am passionate about bringing ideas to life. I mainly test, code, launch, and ship. During the day, I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I also contribute to open source whenever time allows it.</p>
+<p align="center">I'm Wahyu Ikbal, a Data enthusiast from Indonesia. I am passionate about bringing ideas to life. I mainly test, code, launch, and ship. During the day, I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. further fueling my passion for data-driven innovation.</p>
 
 <p align="center">
   <a href="https://medium.com/@wahyuikbal" target="_blank">
