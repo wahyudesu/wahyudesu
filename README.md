@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=wahyudesu&label=Profile%20views&color=0e75b6&style=flat" alt="alfian-code" /></p><h1 align="center">Salam kenal, aku Wahyu 👋🏼👨🏻‍💻</h1>
+  <a align="left"><img src="https://komarev.com/ghpvc/?username=wahyudesu&label=Profile%20views&color=0e75b6&style=flat" alt="alfian-code" /></a> <h1 align="center">Salam kenal, aku Wahyu 👋🏼👨🏻‍💻</h1>
 
 ![Data enthusiast](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -6,7 +6,7 @@
 
 <p align="center">I'm Wahyu Ikbal, a Data enthusiast from Indonesia. I am passionate about bringing ideas to life. I mainly test, code, launch, and ship. During the day, I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. further fueling my passion for data-driven innovation.</p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://medium.com/@wahyuikbal" target="_blank"><img src="https://img.shields.io/badge/Medium-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Wahyu" /></a>
   <a href="https://linkedin.com/in/wahyuikbalmaulana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wahyu" /></a>
   <a href="https://twitter.com/_alsiam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Wahyu" /></a>
@@ -14,8 +14,9 @@
   <a href="https://facebook.com/alsiam.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Wahyu" /></a> 
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://www.datacamp.com/portfolio/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Wahyu" /></a>
+  <a align="left"><img src="https://komarev.com/ghpvc/?username=wahyudesu&label=Profile%20views&color=0e75b6&style=flat" alt="alfian-code" /></a>
   <a href="https://www.udemy.com/user/wahyu-ikbal-maulana/" target="_blank"><img src="https://img.shields.io/badge/Udemy-1769ff?style=for-the-badge&logo=udemy&logoColor=white" alt="Wahyu" /></a>
   <a href="https://www.behance.net/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Wahyu" /></a>
   <a href="https://www.kaggle.com/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Wahyu" /></a>
