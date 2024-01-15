@@ -16,7 +16,6 @@
 
 <p align="center"> 
   <a href="https://www.datacamp.com/portfolio/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Wahyu" /></a>
-  <a align="left"><img src="https://komarev.com/ghpvc/?username=wahyudesu&label=Profile%20views&color=0e75b6&style=flat" alt="alfian-code" /></a>
   <a href="https://www.udemy.com/user/wahyu-ikbal-maulana/" target="_blank"><img src="https://img.shields.io/badge/Udemy-1769ff?style=for-the-badge&logo=udemy&logoColor=white" alt="Wahyu" /></a>
   <a href="https://www.behance.net/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Wahyu" /></a>
   <a href="https://www.kaggle.com/wahyuikbalmaulana" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Wahyu" /></a>
