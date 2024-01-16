@@ -33,11 +33,13 @@
 ](https://medium.com/@wahyuikbal/6-websites-to-submit-your-infographic-and-get-noticed-33c1f8f6d921)
 <!-- BLOG-POST-LIST:END -->
 More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 </td><td valign="top" width="50%">
 
 ### 📝 Latest Notebook
 <!-- blog starts -->
-- [Air Quality Analysis]()
 - [Mood detection using tweets](https://www.kaggle.com/code/wahyuikbalmaulana/mood-detection-using-tweets)
 - [Diamond price prediction](https://www.kaggle.com/code/wahyuikbalmaulana/diamond-price-prediction-using-regression-98-2)
 - [Simple recommendation system](https://www.kaggle.com/code/wahyuikbalmaulana/movie-recommendation-fix)
@@ -45,3 +47,5 @@ More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 - [Salary Estimation using K-Nearest Neighbour](https://www.kaggle.com/code/wahyuikbalmaulana/salary-estimation-using-k-nearest-neighbour)
 <!-- blog ends -->
 More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code)
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&langs_count=8&theme=dark"/>
