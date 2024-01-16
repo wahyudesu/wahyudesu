@@ -34,12 +34,13 @@
 <!-- BLOG-POST-LIST:END -->
 More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
 
 </td><td valign="top" width="50%">
 
 ### 📝 Latest Notebook
 <!-- blog starts -->
+- [Mood detection using tweets](https://www.kaggle.com/code/wahyuikbalmaulana/mood-detection-using-tweets)
 - [Mood detection using tweets](https://www.kaggle.com/code/wahyuikbalmaulana/mood-detection-using-tweets)
 - [Diamond price prediction](https://www.kaggle.com/code/wahyuikbalmaulana/diamond-price-prediction-using-regression-98-2)
 - [Simple recommendation system](https://www.kaggle.com/code/wahyuikbalmaulana/movie-recommendation-fix)
@@ -48,4 +49,4 @@ More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 <!-- blog ends -->
 More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&langs_count=8&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&theme=dark)
