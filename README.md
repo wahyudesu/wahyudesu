@@ -40,11 +40,11 @@ More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 
 ### 📝 Latest Notebook
 <!-- blog starts -->
+- [Rock Scissor Paper](https://github.com/wahyudesu/Dicoding-rock-scissor-paper/blob/main/GuntingBatuKertas.ipynb)
 - [Anomaly Detection in bitcoin network]()
 - [Mood detection using tweets](https://www.kaggle.com/code/wahyuikbalmaulana/mood-detection-using-tweets)
 - [Diamond price prediction](https://www.kaggle.com/code/wahyuikbalmaulana/diamond-price-prediction-using-regression-98-2)
 - [Simple recommendation system](https://www.kaggle.com/code/wahyuikbalmaulana/movie-recommendation-fix)
-- [Rock Scissor Paper](https://github.com/wahyudesu/Dicoding-rock-scissor-paper/blob/main/GuntingBatuKertas.ipynb)
 - [Salary Estimation using K-Nearest Neighbour](https://www.kaggle.com/code/wahyuikbalmaulana/salary-estimation-using-k-nearest-neighbour)
 <!-- blog ends -->
 More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code)
