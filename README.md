@@ -50,5 +50,3 @@ More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&theme=dark)
-
-## a
