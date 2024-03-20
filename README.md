@@ -53,6 +53,4 @@ More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code
 
 </td></tr></table>
 
-### 🎯 New Heading Here
-
-You can add your content here.
+![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
