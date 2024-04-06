@@ -4,8 +4,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">I'm Wahyu Ikbal, a Data enthusiast from Indonesia. I am passionate about bringing ideas to life. I mainly test, code, launch, and ship. During the day, I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. further fueling my passion for data-driven innovation.</p>
-
+<p align="center">I'm Wahyu Ikbal, Data enthusiast from Indonesia. I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I am currently busy, actively working on projects while discovering new opportunities. I am passionate about new technology and learning new things. I’m currently learning KNIME, And FlutterFLOW. 
+  
 <p align="center"> 
   <a href="https://medium.com/@wahyuikbal" target="_blank"><img src="https://img.shields.io/badge/Medium-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Wahyu" /></a>
   <a href="https://linkedin.com/in/wahyuikbalmaulana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wahyu" /></a>
