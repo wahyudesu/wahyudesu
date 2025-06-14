@@ -50,5 +50,3 @@ More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&theme=dark)
 
 </td></tr></table>
-
-![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
