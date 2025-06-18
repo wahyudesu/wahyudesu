@@ -50,3 +50,5 @@ More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&theme=dark)
 
 </td></tr></table>
+
+[![wahyu ikbal maulana profile views](https://u8views.com/api/v1/github/profiles/96912274/views/day-week-month-total-count.svg)](https://u8views.com/github/wahyudesu)
