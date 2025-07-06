@@ -22,21 +22,20 @@
 </p>
 <br />
 
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="50%">
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Yang kudapat dari SKS Time series forecasting](https://medium.com/@wahyuikbal/yang-kudapat-dari-sks-time-series-forecasting-ec793eabb764)
-- [Understanding Decomposition in Machine learning](https://medium.com/himit-pens/understanding-decomposition-in-machine-learning-f357a55a91e2)
-- [Mengurai Metrics: Apa Itu Presisi, Recall, dan Bagaimana Menginterpretasikannya.](https://medium.com/himit-pens/mengurai-metrics-apa-itu-presisi-recall-dan-bagaimana-menginterpretasikannya-a15e7f90411e)
-- [6 Websites to Submit Your Infographic and Get Noticed
-](https://medium.com/@wahyuikbal/6-websites-to-submit-your-infographic-and-get-noticed-33c1f8f6d921)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/4" alt="Recent Article 4"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/5" alt="Recent Article 5"> 
+
 <!-- BLOG-POST-LIST:END -->
 More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-
-</td><td valign="top" width="40%">
+</td><td valign="top" width="50%">
 
 ### 📝 Latest Notebook
 <!-- blog starts -->
@@ -48,5 +47,6 @@ More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&theme=dark)
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
 
 </td></tr></table>
