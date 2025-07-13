@@ -1,42 +1,79 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
 jobs:
-  github-metrics:
+  github-metrics-light:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - public_repo
-          #  - read:project
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          user: wahyudesu
+          # Core
+          filename: metrics/light.svg
+          config_timezone: Asia/Calcutta
+          committer_message: "chore: update light metrics"
+          
+          # Display
           template: classic
-          base: activity, community, repositories, metadata
-          base_hireable: yes
-          config_timezone: Asia/Jakarta
+          base: header, activity, community
+          config_animations: yes
+          
+          plugin_languages: yes
+          
+          plugin_introduction: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+  
+  github-metrics-heavy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core
+          filename: metrics/heavy.svg
+          config_timezone: Asia/Calcutta
+          committer_message: "chore: update heavy metrics"
+          
+          # Display
+          template: classic
+          base: header, activity, community, repositories
+          config_animations: yes
+          
+          plugin_isocalendar: yes
+          
+          plugin_licenses: yes
+          plugin_licenses_legal: yes
+          
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          
           plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          
+          plugin_habits: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          plugin_lines: yes
+          
+          plugin_activity: yes
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          
+          plugin_people: yes
+          
+          
