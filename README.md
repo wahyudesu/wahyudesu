@@ -9,13 +9,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/whyikbalmaulana/)
 [![Youtube](https://img.shields.io/badge/YouTube-DC322F?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/wahyuikbalmaulana/)
 
-<h1 align="center">Salam kenal, aku Wahyu 👋🏼👨🏻‍💻</h1>
-
 ![Data enthusiast](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="left">Salam kenal, aku Wahyu 👋🏼👨🏻‍💻</h2>
 
-<p align="center">I'm Wahyu Ikbal, Data enthusiast from Indonesia. I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I am currently busy, actively working on projects while discovering new opportunities. I am passionate about new technology and learning new things. I’m currently learning KNIME, And FlutterFLOW. 
+<p align="left">I'm Wahyu Ikbal, Data enthusiast from Indonesia. I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I am currently busy, actively working on projects while discovering new opportunities. I am passionate about new technology and learning new things. I’m currently learning KNIME, And FlutterFLOW. 
+
+<p align="left"> Get to know me
 
 <table><tr><td valign="top" width="50%">
 
