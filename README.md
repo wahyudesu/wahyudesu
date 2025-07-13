@@ -12,7 +12,7 @@
 ![Data enthusiast](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">Salam kenal, aku Wahyu 👋🏼👨🏻‍💻</h2>
+<h2 align="left">Salam kenal, aku <a href="https://www.wahyuikbal.web.id" target="_blank">Wahyu 👋🏼👨🏻‍💻</a></h2>
 
 <p align="left">I'm Wahyu Ikbal, Data enthusiast from Indonesia. I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I am currently busy, actively working on projects while discovering new opportunities. I am passionate about new technology and learning new things. I’m currently learning KNIME, And FlutterFLOW. 
 
