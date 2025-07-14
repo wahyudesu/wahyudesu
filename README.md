@@ -14,9 +14,11 @@
 
 <h2 align="left">Salam kenal, aku <a href="https://www.wahyuikbal.web.id" target="_blank">Wahyu 👋🏼👨🏻‍💻</a></h2>
 
-<p align="left">I'm Wahyu Ikbal, Data enthusiast from Indonesia. I'm a Mahasiswa at PENS, the #1 Politeknik in Indonesia and #2 Politeknik in Southeast Asia. I am currently busy, actively working on projects while discovering new opportunities. I am passionate about new technology and learning new things. I’m currently learning KNIME, And FlutterFLOW. 
+I’m AI Freelancer on Indonesia.
 
-<p align="left"> Get to know me
+I help growing companies implement AI/ML so they can Improve decision makings
+
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing blog posts and sharing tech-related content on social media (over 7K combined followers and counting).
 
 <table><tr><td valign="top" width="50%">
 
@@ -26,21 +28,8 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2" alt="Recent Article 2"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/4" alt="Recent Article 4"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/5" alt="Recent Article 5"> 
-
-<!-- BLOG-POST-LIST:END -->
-More on [Medium/Wahyuikbal](https://medium.com/@wahyuikbal)
 
 </td><td valign="top" width="50%">
-
-### 📝 Latest Notebook
-<!-- blog starts -->
-- [Rock Scissor Paper](https://github.com/wahyudesu/Dicoding-rock-scissor-paper/blob/main/GuntingBatuKertas.ipynb)
-- [Diamond price prediction](https://www.kaggle.com/code/wahyuikbalmaulana/diamond-price-prediction-using-regression-98-2)
-- [Simple recommendation system](https://www.kaggle.com/code/wahyuikbalmaulana/movie-recommendation-fix)
-- [Salary Estimation using K-Nearest Neighbour](https://www.kaggle.com/code/wahyuikbalmaulana/salary-estimation-using-k-nearest-neighbour)
-<!-- blog ends -->
-More on [Kaggle/wahyuikbalmaulana](https://www.kaggle.com/wahyuikbalmaulana/code)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudesu&layout=compact&theme=dark)
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
