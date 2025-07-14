@@ -30,6 +30,5 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 
 </td><td valign="top" width="50%">
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
 </td></tr></table>
