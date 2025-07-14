@@ -20,9 +20,6 @@ I help growing companies implement AI/ML so they can improve decision making.
 
 Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing blog posts and sharing tech-related content on social media (over 7K combined followers and counting).
 
----
-
-
 <table>
 <tr>
 <th align="center">
