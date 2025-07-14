@@ -1,7 +1,4 @@
-<a align="left">
-  <img src="https://komarev.com/ghpvc/?username=wahyudesu&label=Profile%20views&color=0A66C2&style=flat" alt="wahyu-ikbal" />
-</a>
-
+[![Views](https://komarev.com/ghpvc/?username=wahyudesu&label=Profile%20views&color=0A66C2&style=flat)]()
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitliu/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wahyuikbal_m)
 [![Medium](https://img.shields.io/badge/Medium-2b3849?style=flat&logo=medium&logoColor=white)](https://medium.com/@wahyuikbal)
@@ -25,24 +22,13 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 
 ---
 
-
 <table>
 <tr>
 <th align="center">
 <img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
 </th>
 <th align="center">
 <img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
 </th>
 </tr>
 <tr>
@@ -61,80 +47,10 @@ EXAMPLE TEXT
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3">
 </a>
-  
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-
-  
-</td>
-</tr>
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
 </td>
 </tr>
 </table>
-
-
-<table>
-<tr>
-  <td valign="top" width="50%">
-  ### 📕 Latest Blog posts
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/0">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/0" alt="Recent Article 0">
-    </a>
-    <br/>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2" alt="Recent Article 2">
-    </a>
-    <br/>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3">
-    </a>
-  </td>
-
-<td valign="top" width="50%">
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th align="center">
-<img width="50%" height="1px">
-<p> 
-
-### 📕 Latest Blog posts
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/0" alt="Recent Article 0">
-</a>
-<br/>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2" alt="Recent Article 2">
-</a>
-<br/>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3">
-</a>
-
-</p>
-</th>
-<th align="center">
-<img width="50%" height="1">
-<p> 
-<small>
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-</small>
-</p>
-</th>
-</tr>
-<tr>
-<td>
