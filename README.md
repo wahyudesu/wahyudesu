@@ -51,3 +51,18 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 </td>
 </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="50%">
+      **Column 1 Title**
+      <br>
+      Content for column 1.  This can include text, images, or other Markdown elements.
+    </td>
+    <td width="50%">
+      **Column 2 Title**
+      <br>
+      Content for column 2.
+    </td>
+  </tr>
+</table>
