@@ -55,7 +55,7 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1px">
+<img width="50%" height="1px">
 <p> 
 <small>
 EXAMPLE TEXT
@@ -63,7 +63,7 @@ EXAMPLE TEXT
 </p>
 </th>
 <th align="center">
-<img width="441" height="1">
+<img width="50%" height="1">
 <p> 
 <small>
 EXAMPLE TEXT
