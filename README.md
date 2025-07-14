@@ -28,7 +28,6 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2" alt="Recent Article 2"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3"> 
 
-</td><td valign="top" width="50%">
-
+</td><td valign="top" width="60%">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
 </td></tr></table>
