@@ -11,6 +11,8 @@
 
 ![Data enthusiast](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
 
 ## 👋🏼 Salam kenal, aku [Wahyu](https://www.wahyuikbal.web.id)
 
@@ -18,7 +20,11 @@ I’m an AI Freelancer from Indonesia.
 
 I help growing companies implement AI/ML so they can improve decision making.
 
-Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing blog posts and sharing tech-related content on social media (over 7K combined followers and counting).
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing.
+
+I also enjoy writing blog posts and sharing tech-related content on social media (over 7K combined followers and counting).
+
+<br/>
 
 <table>
 <tr>
