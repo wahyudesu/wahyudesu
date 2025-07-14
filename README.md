@@ -23,10 +23,20 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 <table>
 <tr>
 <th align="center">
-<img width="420" height="1">
+<img width="420">
+<p> 
+<small>
+Recent article
+</small>
+</p>
 </th>
 <th align="center">
-<img width="400" height="1">
+<img width="400">
+<p> 
+<small>
+Github stats
+</small>
+</p>
 </th>
 </tr>
 <tr>
