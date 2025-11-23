@@ -56,9 +56,6 @@ Github stats
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/2" alt="Recent Article 2">
 </a>
 <br/>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@wahyuikbal/3" alt="Recent Article 3">
-</a>
 </td>
 <td>
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyudesu&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
